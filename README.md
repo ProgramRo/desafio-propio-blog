@@ -10,3 +10,7 @@
 6. Listar los usuarios que no han publicado ningún post.
 7. Listar todos los post con sus comentarios (incluyendo aquellos que no poseen comentarios).
 8. Listar todos los usuarios que hayan publicado un post en Junio.
+
+Probando imagen
+![image](https://user-images.githubusercontent.com/98556305/163287619-a8d7c6dd-ab08-48c7-9223-26f8ba9f6a07.png)
+
